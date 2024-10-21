@@ -71,7 +71,7 @@ const model = {
           characterArquetype: "Geek",
           codingPoints: 5,
           nkPoints: -5,
-          image: null,
+          image:  "./images/geek.jpg",
         },
         {
           charId: 2,
@@ -79,7 +79,7 @@ const model = {
           characterArquetype: "Charmer",
           codingPoints: -5,
           nkPoints: +5,
-          image: null,
+          image: "./images/charmer.png",
         },
         {
           charId: 3,
@@ -87,7 +87,7 @@ const model = {
           characterArquetype: "Avarage Joe",
           codingPoints: 0,
           nkPoints: 0,
-          image: null,
+          image: "./images/avarage.png",
         },
       ],
   
